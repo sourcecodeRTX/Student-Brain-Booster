@@ -5,10 +5,6 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Gemini AI](https://img.shields.io/badge/AI-Gemini%201.5-orange)
 
-<p align="center">
-  <img src="public/placeholder-logo.svg" alt="Student Brain Booster Logo" width="200" />
-</p>
-
 ## 📚 Overview
 
 Student Brain Booster is an interactive AI-powered educational tool designed to help students of all educational levels with their academic questions. It leverages Google's Gemini AI to provide intelligent answers tailored to specific subjects and educational levels, enabling personalized learning assistance on demand.
